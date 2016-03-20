@@ -3,6 +3,8 @@
   FakeBomb
 */
 
+#include <Keypad.h>
+
 void setup() {
   // Setup goes here!
 }
